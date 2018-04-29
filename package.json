@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "async": "^2.6.0",
+    "net-snmp": "^1.2.2",
+    "underscore": "^1.9.0"
+  }
+}
